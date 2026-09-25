@@ -1,4 +1,5 @@
 # TechFlow Solutions Website
+Badge: [![Deploy to GitHub Pages](https://github.com/noahroadruck-ops/Github_Collab_09/actions/workflows/deploy.yml/badge.svg)](https://github.com/noahroadruck-ops/Github_Collab_09/actions/workflows/deploy.yml) 
 
 A modern, responsive website for TechFlow Solutions - a web development company specializing in custom websites for small businesses.
 
@@ -87,3 +88,6 @@ This project is for educational purposes.
 ---
 
 *Built with ❤️ by the TechFlow Solutions team*
+
+Added lines for wrkflow
+!
